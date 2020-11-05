@@ -1,0 +1,3 @@
+In this folder, you can find the automatic topic classification for news articles notebooks. There are 2 notebooks, one of them is using [BERT as language model](https://github.com/principai/NLP_PAI/blob/master/News_Categorization/Compec_News_Topic_Classification_LM.ipynb) and the second one applies [TF-IDF with Multinomial Naive Bayes](https://github.com/principai/NLP_PAI/blob/master/News_Categorization/Compec_News_Topic_Classification_TF-IDF.ipynb). 
+
+The training and test datasets with these codes can also be found in [News_Categorization.zip file](https://github.com/principai/NLP_PAI/blob/master/News_Categorization/News_Categorization.zip), you can download.
